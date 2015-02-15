@@ -1,7 +1,7 @@
 
 /* List the classes in a jar
 *
-*
+*  Sebastien Kirche - 2015
 *
 *  idea from http://stackoverflow.com/questions/15720822/how-to-get-names-of-classes-inside-a-jar-file
 *
